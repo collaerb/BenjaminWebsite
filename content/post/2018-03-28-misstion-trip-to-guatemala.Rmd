@@ -8,6 +8,11 @@ categories:
 tags:
   - Guatemala
   - Travel
+    
+header:
+  image: "/headers/bubbles-wide.jpg"
+  caption: "Bedtime and Sleep Duration (2014-2018)"
+  
 ---
 
 In the summer of 2017 I had the opportunity to go to Tactic, Guatemala. Tactic is a very small village in the mountains of Guatemala, about 7 hours by car from the capital. 

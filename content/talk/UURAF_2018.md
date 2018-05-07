@@ -1,6 +1,8 @@
 +++
 date = 2018-03-28T00:00:00  # Schedule page publish date.
 
+![](/img/XE1C9992.jpg)
+
 title = "Detection and Isolation of Murine Placental Exosomes During Pregnancy"
 time_start = 2018-04-13T13:45:00
 time_end = 2030-06-01T14:00:00
@@ -16,7 +18,7 @@ selected = false
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["deep-learning"]
+projects = [""]
 
 # Links (optional).
 url_pdf = ""
@@ -38,4 +40,5 @@ caption = "Petroff Lab Picture: Golden Harvest :smile:"
 
 +++
 
+![](/img/XE1C9992.jpg)
 
